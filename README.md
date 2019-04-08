@@ -1,4 +1,4 @@
-# Vue creatives
+# Wavecraft
 
 Visit https://wavecraft.herokuapp.com/ to see the app online. 
 
