@@ -6,12 +6,12 @@
     <form>
       <div class="form-group">
         <label for="yourName">Your name</label>
-        <input type="text" class="form-control" id="yourName" placeholder="Enter your name">
+        <input id="yourName" type="text" class="form-control" placeholder="Enter your name" />
       </div>
 
       <div class="form-group">
         <label for="emailAddress">E-mail address</label>
-        <input type="email" class="form-control" id="emailAddress" placeholder="Enter your email">
+        <input id="emailAddress" type="email" class="form-control" placeholder="Enter your email" />
       </div>
 
       <slot></slot>
