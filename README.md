@@ -1,29 +1,30 @@
-# wavecraft-reset
+# Wavecraft
 
-## Project setup
+Visit https://wavecraft.herokuapp.com/ to see the app online. 
+
+
+## Local installation guide
+
+- Install node https://nodejs.org/en/.
+- Download project or run `git clone https://github.com/dayrim/vue-creatives.gitt` to clone project.
+- Go to project root
+
+## Project commands
+*If yarn is not installed it's possible to use 'npm' command with same flags.
+
+### Installs all dependencies
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
+### Builds for development and starts server with file-watch and hot-reload
 ```
-yarn run serve
+yarn serve
 ```
-
-### Compiles and minifies for production
+### Builds for production
 ```
-yarn run build
+yarn build
 ```
-
-### Run your tests
+### Starts production server
 ```
-yarn run test
+yarn start
 ```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
