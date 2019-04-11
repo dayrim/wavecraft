@@ -6,7 +6,7 @@ Visit https://wavecraft.herokuapp.com/ to see the app online.
 ## Local installation guide
 
 - Install node https://nodejs.org/en/.
-- Download project or run `git clone https://github.com/dayrim/vue-creatives.gitt` to clone project.
+- Download project or run `git clone https://github.com/dayrim/wavecraft.git` to clone project.
 - Go to project root
 
 ## Project commands
