@@ -1,0 +1,13 @@
+<template>
+  <b-container fluid> </b-container>
+</template>
+
+<script>
+export default {
+  data() {
+    return {};
+  },
+};
+</script>
+
+<style lang="scss"></style>
