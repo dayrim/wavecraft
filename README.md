@@ -1,6 +1,6 @@
 # Wavecraft
 
-Visit https://wavecraft.herokuapp.com/ to see the app online. 
+Vue webshop template. Visit https://wavecraft.herokuapp.com/ to see the app online. 
 
 
 ## Local installation guide
